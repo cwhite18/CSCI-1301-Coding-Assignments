@@ -2,6 +2,7 @@
 Name: Christopher Lewis White
 Assignment: LogicalOperatorsIFStatements&LoopsAssignment(Part1)
 Class: CSCI 1301-01
+Dr. Ade Thompson
 Date: 10-12-2018
 
 Algorithm:
